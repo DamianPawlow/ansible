@@ -1,0 +1,2 @@
+[oracle]
+144.24.190.159 ansible_ssh_user=ubuntu ansible_ssh_common_args='-o StrictHostKeyChecking=no'
