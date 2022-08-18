@@ -1,2 +1,2 @@
 [gcp]
-34.116.249.161 ansible_ssh_user=ubuntu ansible_ssh_common_args='-o StrictHostKeyChecking=no'
+ip_addr ansible_ssh_user=ubuntu ansible_ssh_common_args='-o StrictHostKeyChecking=no'
