@@ -1,2 +1,2 @@
 [gcp]
-34.116.249.161 ansible_connection=ssh ansible_user=gcp_projects_dp ansible_ssh_common_args='-o StrictHostKeyChecking=no'
+34.116.249.161 ansible_connection=ssh ansible_user=jenkins ansible_ssh_common_args='-o StrictHostKeyChecking=no'
