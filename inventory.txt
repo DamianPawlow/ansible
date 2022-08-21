@@ -1,2 +1,2 @@
 [gcp]
-34.116.249.161 ansible_connection=ssh ansible_user=jenkins
+34.116.249.161 ansible_connection=ssh ansible_user=gcp_projects_dp
