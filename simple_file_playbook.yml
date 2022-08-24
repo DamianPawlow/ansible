@@ -2,6 +2,6 @@
   hosts: all
   tasks:
    - name: Leaving a mark
-     command: "touch /tmp/created_only_after_MR"
+     command: "touch /tmp/created_from_the_jenkins_pipeline"
      
 
